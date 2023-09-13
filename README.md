@@ -1,5 +1,7 @@
 # Shots_Analysis_Euro2020 ⚽
-I want to see how many shots each team has made in each match. 📈
+I want to see how many shots each team has made in Russia-Denmark Euro 2020 match. 🗒️
+
+You can do the same with other matches by exploiting the code. 📈
 
 I want to know how huge the chance for scoring a goal is. 📉
 
